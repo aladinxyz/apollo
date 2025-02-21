@@ -1,13 +1,13 @@
 # React & Apollo Tutorial
 
-This is the sample project that belongs to the [React & Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/) on How to GraphQL.
+This is the sample project that belongs to the React & Apollo Tutorial on How to GraphQL.
 
 ## How to use
 
 ### 1. Clone repository
 
 ```sh
-git clone https://github.com/howtographql/react-apollo/
+git clone https://github.com/aladinxyz/apollo/
 ```
 
 
@@ -16,7 +16,7 @@ git clone https://github.com/howtographql/react-apollo/
 Go to the `server` folder, install dependencies and start the server. 
 
 ```sh
-cd react-apollo/server
+cd apollo/server
 yarn install
 yarn dev
 ```
@@ -26,7 +26,7 @@ yarn dev
 
 ### 3. Run the app
 
-Now that the server is running, you can start the React app as well. The commands need to be run in a new terminal tab/window inside the root directory `react-apollo` (because the current tab is blocked by the process running the server):
+Now that the server is running, you can start the React app as well. The commands need to be run in a new terminal tab/window inside the root directory `apollo` (because the current tab is blocked by the process running the server):
 
 ```sh
 yarn install
